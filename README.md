@@ -12,3 +12,12 @@ de verdade.
 
 **Como usar:** abra no Colab, escolha **T4 GPU** em *Runtime ▸ Alterar tipo de ambiente de
 execução* e rode as células em ordem.
+
+## Notebooks deste repositório
+
+| arquivo | o que faz |
+|---|---|
+| `OXIOW-Animate.ipynb` | rodar o Wan 2.2 Animate (V2V) na T4 gratuita do Colab |
+| `OXIOW-Colab-Kaggle-Bridge.ipynb` | a **ponte**: o Colab opera a API do Kaggle — baixa os modelos que já estão lá (11,5 GB), roda na T4 e devolve o resultado |
+
+**Regra da casa:** UMA conta no Kaggle (eles baneiam multi-conta para ganhar GPU — declarado por funcionário no fórum oficial). No **Colab**, duas contas são legítimas.

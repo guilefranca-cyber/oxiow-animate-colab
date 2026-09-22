@@ -1,0 +1,13 @@
+{
+  "id": "oxiowhub/oxiow-animate-v2v",
+  "title": "OXIOW Animate V2V",
+  "code_file": "fonte.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": ["oxiowhub/oxiow-wan-animate", "oxiowhub/oxiow-animate-entrada"],
+  "competition_sources": [],
+  "kernel_sources": []
+}
